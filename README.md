@@ -2,4 +2,4 @@
 
 Zmiana brancha
 
-Konflikt
+Zmiana kolejna
